@@ -4,7 +4,7 @@ This project is designed to predict customer churn using machine learning techni
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/bcemsayilar)
+- [@bcemsayilar](https://www.github.com/bcemsayilar)
 
 ## 🚀 About Me
 I'm a machine learning engineer currently at PEAKUP
